@@ -1,3 +1,5 @@
+package ProducerConsumer;
+
 public class Drop {
     // Message sent from producer to consumer.
     private String message;

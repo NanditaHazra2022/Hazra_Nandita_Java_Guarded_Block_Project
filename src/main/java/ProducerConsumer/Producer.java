@@ -1,3 +1,5 @@
+package ProducerConsumer;
+
 // Using Runnable interface to have method: run
 // for containing the code executed in the thread.
 public class Producer implements Runnable {

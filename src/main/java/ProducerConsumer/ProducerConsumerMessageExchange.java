@@ -1,3 +1,5 @@
+package ProducerConsumer;
+
 /* Java program to demonstrate guarded blocks.
 * This is a multithreaded program, following are the threads:
 *   1. main thread for program execution.
